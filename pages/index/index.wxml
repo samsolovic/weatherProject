@@ -1,1 +1,5 @@
-<view class="title">12°</view>
+<view class="weather-wrapper">
+    <view class="title">12°</view>
+    <view class="weather">Sunny</view>
+    <image class='weather-bg' src='/images/sunny-bg.png' mode='scaleToFill'></image>
+</view>
