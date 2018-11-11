@@ -3,9 +3,10 @@
     "pages/index/index"
   ],
   "window":{
-    "backgroundTextStyle":"medium",
-    "navigationBarBackgroundColor": "#C4EFFF",
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTitleText": "Sam Weather",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
   }
 }
