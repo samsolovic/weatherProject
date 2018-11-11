@@ -1,3 +1,5 @@
+//first program
+
 const weatherMap= {
   'sunny':'晴天',
   'cloudy':'多云',
